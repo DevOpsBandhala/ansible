@@ -5,4 +5,5 @@
   tasks:
  
   - name: Hello World!
-    shell: echo "Hi! Tower is working."
+    debug:
+      msg: Hi! Tower is working.
